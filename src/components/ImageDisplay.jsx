@@ -1,5 +1,5 @@
 export default function ImageDisplay({ imageName, userName }) {  
-    const imagePath = `/${imageName}.jpg`;  
+    const imagePath = process.env.PUBLIC_URL + `/${imageName}.jpg`;  
     
     return (  
       // <div className="flex justify-center items-center px-4 py-2">  
