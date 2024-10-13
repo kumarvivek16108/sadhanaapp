@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sadhanaapp/static/css/main.b154fa7a.css",
+    "main.js": "/sadhanaapp/static/js/main.84320217.js",
+    "index.html": "/sadhanaapp/index.html",
+    "main.b154fa7a.css.map": "/sadhanaapp/static/css/main.b154fa7a.css.map",
+    "main.84320217.js.map": "/sadhanaapp/static/js/main.84320217.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b154fa7a.css",
+    "static/js/main.84320217.js"
+  ]
+}
